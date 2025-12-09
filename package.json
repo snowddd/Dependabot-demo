@@ -9,7 +9,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "google-libphonenumber": "3.2.30",
+    "google-libphonenumber": "3.2.43",
     "prettier": "3.0.0"
   }
 }
