@@ -20,7 +20,7 @@ It is intended to demonstrate how Dependabot can automatically check for updates
 Dependabot is configured to:
 
 - Track **only `google-libphonenumber`**.
-- Open PRs to a dedicated testing branch: `fix/QS-622`.
+- Open PRs to a dedicated branch: `main`.
 - Run on a schedule (`hourly` for testing, can be changed to `daily` or `weekly` for production).
 - Use a commit message prefix: `deps`.
 
